@@ -42,7 +42,7 @@ export const AuthModal: React.FC<Props> = (props) => {
           >
             Google
           </Button>
-          <Button className="grow">Google</Button>
+
           <Button
             onClick={() =>
               signIn.social({
